@@ -26,5 +26,20 @@ namespace Template4.Controllers
 
             return View();
         }
+        public ActionResult Flight()
+        {
+          
+            return View();
+        }
+        public ActionResult Cars()
+        {
+
+            return View();
+        }
+        public ActionResult Cruise()
+        {
+
+            return View();
+        }
     }
 }

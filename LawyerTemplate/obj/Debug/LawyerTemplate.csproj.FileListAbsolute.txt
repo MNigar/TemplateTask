@@ -76,3 +76,4 @@ D:\C#course\TemplateTask\LawyerTemplate\obj\Debug\LawyerTemplate.csproj.CoreComp
 D:\C#course\TemplateTask\LawyerTemplate\obj\Debug\LawyerTemplate.csproj.CopyComplete
 D:\C#course\TemplateTask\LawyerTemplate\obj\Debug\LawyerTemplate.dll
 D:\C#course\TemplateTask\LawyerTemplate\obj\Debug\LawyerTemplate.pdb
+D:\C#course\TemplateTask\LawyerTemplate\obj\Debug\LawyerTemplate.csprojAssemblyReference.cache

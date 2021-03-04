@@ -3,6 +3,16 @@
     Layout = "_Layout.cshtml";
 }
 <!-- Page Header Start -->
+
+@{Html.RenderPartial("_Partial");}
+@{
+
+    MvcHtmlString t = Html.Partial("_Partial");
+
+}
+
+@Html.ActionLink("rrr", "Index", "Home", null, new { @onclick = "return confirm('Eminse')"});
+<a href="Index">tttt </a>
 <div class="page-header">
     <div class="container">
         <div class="row">
@@ -15,7 +25,7 @@
             </div>
         </div>
     </div>
-</div>
+</divs
 <!-- Page Header End -->
 <!-- About Start -->
 <div class="about">
